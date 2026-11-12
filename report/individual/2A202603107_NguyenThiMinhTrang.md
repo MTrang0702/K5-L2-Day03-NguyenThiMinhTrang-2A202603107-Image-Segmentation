@@ -3,8 +3,8 @@
 **Cách dùng:** Thay mọi dấu `…` bằng bài làm thật của bạn trước khi nộp link fork trên [LMS](https://aithucchien.vinuni.edu.vn). Giữ nguyên bốn mục và bảng để coach đọc nhanh. Viết ngắn, cụ thể theo ảnh/vùng; không cần thuật ngữ chuyên sâu. Ví dụ trong [hướng dẫn mẫu](../../reports/REPORT_TEMPLATE.md) chỉ giúp hiểu cách điền, không phải câu trả lời để chép lại.
 
 - Mã học viên theo lớp: 2A202603107
-- Ngày / CVAT local: 12/11/2026, CVAT local Docker (http://localhost:9080)
-- Công cụ đã dùng: CVAT (Brush, Polygon, Mask), Docker, Python inspect_submissions.py
+- Ngày / CVAT local: 12/11/2026, CVAT local Docker
+- Công cụ đã dùng: CVAT (Brush, Polygon, Mask)
 
 Mã học viên là mã lớp cấp; không cần ghi họ tên trong report nếu kênh [LMS](https://aithucchien.vinuni.edu.vn) đã nhận diện bạn. Chỉ ghi công cụ thật sự đã dùng; không có SAM vẫn làm bài bình thường.
 
